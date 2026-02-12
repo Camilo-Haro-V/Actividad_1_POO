@@ -11,18 +11,7 @@ package com.mycompany.ejercicio_12;
 public class Ejercicio_12 {
 
     public static void main(String[] args) {
-  /*double horas_trabajadas = 48;
-    double valor_hora = 5000;
-    double retencion = 12.5;
-    double porcentaje_retefuente= retencion/100;
-    double salario_bruto = horas_trabajadas * valor_hora;
-    double valor_retefuente = porcentaje_retefuente * salario_bruto;
-    double salario_neto = salario_bruto - valor_retefuente;
-
-    System.out.println("Salario Bruto: " + salario_bruto);
-    System.out.println("Retención de la fuente: " + valor_retefuente);
-    System.out.println("Salario Neto: " + salario_neto); */
-    
+        
     double horas_trabajadas = 48;
     double valor_hora = 5000;
     double retencion = 12.5;
