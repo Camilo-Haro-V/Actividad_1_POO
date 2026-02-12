@@ -11,7 +11,7 @@ package com.mycompany.ejercicio_5;
 public class Ejercicio_5 {
 
     public static void main(String[] args) {
-        /*double SUMA, X, Y;
+        double SUMA, X, Y;
         SUMA = 0;
         X = 20;
         SUMA= SUMA + X;
@@ -20,7 +20,7 @@ public class Ejercicio_5 {
         SUMA = SUMA + X/Y;
         System.out.println("El valor de X es: " + X);
         System.out.println("El valor de Y es: " + Y);
-        System.out.println("El valor de la suma es: " + SUMA);*/
+        System.out.println("El valor de la suma es: " + SUMA);
         
     }
 }
